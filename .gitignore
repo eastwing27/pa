@@ -1,0 +1,11 @@
+/.vs
+/.vscode
+/packages
+pa_client/.vs
+pa_client/.vscode
+pa_client/node_modules
+pa_server/.vs
+pa_server/.vscode
+pa_server/bin
+pa_server/obj
+pa_client/package-lock.json
